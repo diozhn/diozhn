@@ -1,4 +1,6 @@
-### Hello! My name is Diogo, welcome to my GitHub ;)
+<h1 align="center">Olá 👋, meu nome é Diogo, seja bem vindo ao meu Github!</h1>
+<h3 align="center">Sou um desenvolvedor Frontend em Javascript e Backend com Java! </h3>
+<h3 align="center">Diretor da comunidade <a href="discord.gg/WfsjPMD">OneUX</a>!</h3>
 
 ### Languages
 
@@ -10,6 +12,21 @@
 ### Technologies
 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+### More
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white)
+![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Apache](http://img.shields.io/badge/-Apache-f69824?style=flat-square&logo=apache&logoColor=ffffff)
+
+### Talk to me:
+
+ <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.gg/WfsjPMD): Zuhnny#3146 </a>
+ 
+ <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=diozhn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"><br>
