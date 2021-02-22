@@ -12,18 +12,18 @@
 ### Technologies
 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=flat-square&logo=Node.js&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-npm-000?style=flat-square&logo=npm)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### More
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white)
-![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Apache](http://img.shields.io/badge/-Apache-f69824?style=flat-square&logo=apache&logoColor=ffffff)
+![VSCode](http://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-000?style=flat-square&logo=windows&logoColor=ffffff)
+![Apache](http://img.shields.io/badge/-Apache-000?style=flat-square&logo=apache&logoColor=ffffff)
 
 ### Talk to me:
 
