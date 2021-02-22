@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋, meu nome é Diogo, seja bem vindo ao meu Github!</h1>
-<h3 align="center">Sou um desenvolvedor Frontend em Javascript e Backend com Java! </h3>
-<h3 align="center">Diretor da comunidade <a href="discord.gg/WfsjPMD">OneUX</a>!</h3>
+<h1 align="center">Hello! My name is Diogo, welcome to my Github ;)</h1>
+<h3 align="center">I am a systems analyst with a focus on software development.</h3>
+<h3 align="center">Community Manager of <a href="discord.gg/WfsjPMD">OneUX</a>!</h3>
 
 ### Languages
 
