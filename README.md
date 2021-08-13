@@ -1,11 +1,10 @@
-<h1>Oi! Meu nome é Diogo, bem vindo(a) ao meu GitHub ;)</h1>
+<h1>Hi! my name is Diogo, welcome to my GitHub ;)</h1>
 
-<p><em>Sou desenvolvedor web e tecnólogo em Análise e Desenvolvimento de Sistemas pelo <a href="https://univs.edu.br">Centro Universitário Vale do Salgado</a> 😊</br>
-</em></p>
+<p><em>I am a web developer and technologist in Systems Analysis and Development at <a href="https://univs.edu.br"> Vale do Salgado University Center</a> 😊</br></em></p>
 
 
 ```javascript
-const sobreMim = {
+const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
@@ -13,15 +12,15 @@ const sobreMim = {
          css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express", "NestJs"],
+         java: ["Spring"],
          misc: ["Bash"]
       },
-      databases: ["mySQL", "PostgreSQL"],
+      databases: ["mySQL", "PostgreSQL", "MongoDB"],
       mobile: ["Android"]
    },
-   currentOccupation: ["Desenvolvedor Web"],
-   challenge: "Entrar no mercado profissional de programação e evoluir todos os dias",
+   currentOccupation: ["Web Developer"],
+   challenge: "Enter the professional programming market and evolve every day",
 };
 ```
 </br></br>
