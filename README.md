@@ -13,6 +13,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express", "NestJs"],
+         python: ["Flask"]
          java: ["Spring"],
          misc: ["Bash"]
       },
