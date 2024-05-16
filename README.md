@@ -1,26 +1,38 @@
-# Bem-vindo ao meu perfil! 👋
+## Hey there! I'm Diogo.
 
-## Sobre mim
-Olá, sou o Diogo, um desenvolvedor pleno especializado em JavaScript/Node.js. Tenho experiência no desenvolvimento e manutenção de API's REST, e estou sempre em busca de desafios interessantes no mundo da programação.
+---
 
-## Habilidades e Tecnologias
-- Linguagens: JavaScript, TypeScript, Java
-- Frameworks: Node.js, Express.js, SpringBoot
-- Bancos de Dados: MongoDB, PostgreSQL, MySQL
-- Ferramentas: Redis, RabbitMQ, Docker
-- ORM: TypeORM, Sequelize
-- Documentação: Swagger, Postman
+### 🙋🏽‍♂️About Me
 
-## Contato
-- LinkedIn: [Diogo Mendes](https://www.linkedin.com/in/diozhn/)
-- Email: contato.diogomendes@gmail.com
+<p> I'm a backend developer focused on Api's and anything that sparks my curiosity ;)
+</p>
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diozhn&show_icons=true&theme=dark)
+### 👨🏽‍💻Tech Stack
 
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diozhn&layout=compact&theme=dark)
+<p>
+Here are some things I learned during my career.
+</p>
 
-## Contribuições
-Contribuo para projetos open source e estou sempre aberto a colaborações. Vamos construir algo incrível juntos!
+- 🗣 TypeScript 𒑰 Java 
+- 🎒 NodeJS 𒑰 Express 𒑰 SQL 𒑰 NoSQL 𒑰 RabbitMQ 𒑰 Redis 𒑰 Git
+- ♽ Docker 𒑰 Jenkins
 
+### 🚧Current Projects
+
+<p>
+Check out what I've been involved / currently involved in.
+
+- <a href="">Teko</a> _An app for everyday life._
+- <a href="https://buybye.com.br">Buybye</a> | _A smart super market._
+</p>
+
+### 🌱What I'm Learning
+
+Here are some things on my todo list.
+
+- _Clean Arch_ 🗃️
+- _Spring Boot_ 🍃
+
+---
+
+`You can reach me on discord @diozhn`
