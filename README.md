@@ -14,7 +14,7 @@ Here are some things I learned during my career.
 </p>
 
 - 🗣 TypeScript 𒑰 Java 
-- 🎒 NodeJS 𒑰 Express 𒑰 SQL 𒑰 NoSQL 𒑰 RabbitMQ 𒑰 Redis 𒑰 Git
+- 🎒 NodeJS 𒑰 Express 𒑰 SQL 𒑰 NoSQL 𒑰 RabbitMQ 𒑰 Redis 𒑰 Git 𒑰 Jest
 - ♽ Docker 𒑰 Jenkins
 
 ### 🚧Current Projects
@@ -22,8 +22,11 @@ Here are some things I learned during my career.
 <p>
 Check out what I've been involved / currently involved in.
 
-- <a href="">Teko</a> _An app for everyday life._
+- <a href="">Teko</a> | _An app for everyday life._
 - <a href="https://buybye.com.br">Buybye</a> | _A smart super market._
+- <a href="">ERP Enalta</a> | _An equipment management system, geospatial metrics and irrigation control.
+- <a href="">Florescer</a> | _A psychology platform for the business sector.
+._
 </p>
 
 ### 🌱What I'm Learning
@@ -32,6 +35,7 @@ Here are some things on my todo list.
 
 - _Clean Arch_ 🗃️
 - _Spring Boot_ 🍃
+- _C/C++_ 🛠️
 
 ---
 
