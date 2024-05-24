@@ -36,6 +36,7 @@ Here are some things on my todo list.
 - _Clean Arch_ 🗃️
 - _Spring Boot_ 🍃
 - _C/C++_ 🛠️
+- _OPC UA_ 📃
 
 ---
 
