@@ -1,41 +1,36 @@
-## E aí! Eu sou o Diogo.
+## E aí, pessoal! Eu sou o Diogo. 👋
 
 ---
 
 ### 🙋🏽‍♂️ Sobre Mim
 
-<p>
-  Sou um desenvolvedor backend focado em APIs e em qualquer coisa que desperte minha curiosidade ;)
-</p>
+Sou um **Desenvolvedor Backend Pleno** apaixonado por construir **APIs robustas e escaláveis**. Minha curiosidade me impulsiona a explorar novas tecnologias e desafios, buscando sempre soluções eficientes.
 
 ### 👨🏽‍💻 Minhas Tecnologias
 
-<p>
-  Aqui estão algumas coisas que aprendi durante minha carreira.
-</p>
+Durante minha jornada, mergulhei em diversas ferramentas e linguagens:
 
-- 🗣 Javascript | Java | Golang | Python
-- 🎒 NodeJS | Express | SQL | NoSQL | RabbitMQ | Redis | Git | Jest 
-- ♽ Docker | Jenkins
+* **Linguagens de Programação:** 🗣️ JavaScript (com foco em **Node.js**), **Python**, Java, Golang
+* **Frameworks & Ferramentas:** 🎒 Express, **SQL** (PostgreSQL, MySQL), **NoSQL** (MongoDB), RabbitMQ, Redis, Git, Jest
+* **DevOps & Orquestração:** ♽ Docker, Jenkins
 
-### 🚧 Projetos Atuais
+### 🚧 Projetos em Destaque
 
-<p>
-  Confira no que estive / estou envolvido atualmente.
+Confira alguns dos projetos mais relevantes nos quais estive envolvido:
 
-- <a href="https://buybye.com.br">Buybye</a> | _Um supermercado inteligente._
-- <a href="">ERP Enalta</a> | _Um sistema de gerenciamento de equipamentos, métricas geoespaciais e controle de irrigação._
-- <a href="">Florescer</a> | _Uma plataforma de psicologia para o setor empresarial._
-- <a href="">Bindfy</a> | _Plataforma para gerênciamento de integrações entre serviços._
-- <a href="">Advision</a> | _Plataforma para gerênciamento e analise de integrações de marketing digital._
-</p>
+* **Buybye** 🛒: Um sistema completo para **supermercados inteligentes**, integrando aplicativo e ERP.
+* **ERP Enalta** 🌾: Plataforma de gerenciamento de equipamentos, com **métricas geoespaciais e controle de irrigação** para o agronegócio.
+* **Florescer** 🧠: Uma plataforma de psicologia dedicada ao **setor empresarial**, oferecendo gestão de cursos e conteúdo.
+* **Bindfy** 🔗: Uma **plataforma versátil para gerenciamento de integrações** entre diversos serviços (APIs, webhooks, etc.).
+* **Advision** 📊: Sistema focado em **gerenciamento e análise de métricas de marketing digital**.
 
-### 🌱 O Que Estou Aprendendo
+### 🌱 O Que Estou Aprendendo (e Animado Para Dominar!)
 
-Aqui estão algumas coisas na minha lista de estudos.
-- _GOLANG_ 🐀
-- _ENGLISH_ 🌏
+Estou sempre em busca de novos conhecimentos! Atualmente, meus estudos estão focados em:
+
+* **GoLang** 🚀: Aprofundando no desenvolvimento de sistemas de alta performance.
+* **Inglês** 🌍: Aprimorando minhas habilidades para comunicação global e acesso a mais recursos.
 
 ---
 
-`Você pode me encontrar no Discord @diozhn`
+`Você pode me encontrar no Discord @diozhn. Vamos conectar! 😉`
