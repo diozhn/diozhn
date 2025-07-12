@@ -1,46 +1,41 @@
-## Hey there! I'm Diogo.
+## E aí! Eu sou o Diogo.
 
 ---
 
-### 🙋🏽‍♂️About Me
-
-<p> I'm a backend developer focused on Api's and anything that sparks my curiosity ;)
-</p>
-
-### 👨🏽‍💻Tech Stack
+### 🙋🏽‍♂️ Sobre Mim
 
 <p>
-Here are some things I learned during my career.
+  Sou um desenvolvedor backend focado em APIs e em qualquer coisa que desperte minha curiosidade ;)
 </p>
 
-- 🗣 TypeScript 𒑰 Java 𒑰 C++ 𒑰 Golang
-- 🎒 NodeJS 𒑰 Express 𒑰 SQL 𒑰 NoSQL 𒑰 RabbitMQ 𒑰 Redis 𒑰 Git 𒑰 Jest 𒑰 OPCUA 
-- ♽ Docker 𒑰 Jenkins
-
-### 🚧Current Projects
+### 👨🏽‍💻 Minhas Tecnologias
 
 <p>
-Check out what I've been involved / currently involved in.
-
-- <a href="https://smar.com.br">HSE OPC UA</a> | _Real-time machine data analysis system._
-- <a href="">Anuntech</a> | _Coming soon._
-- <a href="">Teko</a> | _An app for everyday life._
-- <a href="https://buybye.com.br">Buybye</a> | _A smart super market._
-- <a href="">ERP Enalta</a> | _An equipment management system, geospatial metrics and irrigation control.
-- <a href="">Florescer</a> | _A psychology platform for the business sector.
-._
+  Aqui estão algumas coisas que aprendi durante minha carreira.
 </p>
 
-### 🌱What I'm Learning
+- 🗣 Javascript | Java | Golang | Python
+- 🎒 NodeJS | Express | SQL | NoSQL | RabbitMQ | Redis | Git | Jest 
+- ♽ Docker | Jenkins
 
-Here are some things on my todo list.
+### 🚧 Projetos Atuais
 
-- _Clean Arch_ 🗃️
-- _Spring Boot_ 🍃
-- _C/C++_ 🛠️
-- _OPC UA_ 📃
+<p>
+  Confira no que estive / estou envolvido atualmente.
+
+- <a href="https://buybye.com.br">Buybye</a> | _Um supermercado inteligente._
+- <a href="">ERP Enalta</a> | _Um sistema de gerenciamento de equipamentos, métricas geoespaciais e controle de irrigação._
+- <a href="">Florescer</a> | _Uma plataforma de psicologia para o setor empresarial._
+- <a href="">Bindfy</a> | _Plataforma para gerênciamento de integrações entre serviços._
+- <a href="">Advision</a> | _Plataforma para gerênciamento e analise de integrações de marketing digital._
+</p>
+
+### 🌱 O Que Estou Aprendendo
+
+Aqui estão algumas coisas na minha lista de estudos.
 - _GOLANG_ 🐀
+- _ENGLISH_ 🌏
 
 ---
 
-`You can reach me on discord @diozhn`
+`Você pode me encontrar no Discord @diozhn`
